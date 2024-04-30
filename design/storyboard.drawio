@@ -1,11 +1,38 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="399" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1326" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="40" y="40" width="760" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Can you go into the museum with a discount or not , in JS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="40" width="480" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Please enter your age and a day of a week" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="90" width="370" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Day of week :" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="160" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Age :&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="220" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="7">
+                    <mxGeometry x="160" y="165" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="7">
+                    <mxGeometry x="100" y="225" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Find discount" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="7">
+                    <mxGeometry x="50" y="300" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="You can go into the museum with a discount" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="380" width="370" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="museum image" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="7">
+                    <mxGeometry x="420" y="130" width="270" height="150" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
